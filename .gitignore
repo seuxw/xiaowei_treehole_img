@@ -1,0 +1,8 @@
+*.pyc
+
+/log
+/output
+
+config.py
+
+/.vscode
