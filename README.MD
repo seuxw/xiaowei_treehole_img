@@ -1,10 +1,10 @@
-# XIAOWEI\_TREEHOLE\_IMG
+# XIAOWEI\_TREEHOLE
 
 ## 基础信息
 
 Author | CreateDate | ProjectName | ChineseName
 --- | --- | --- | ---
-Tau Woo | 2018-03-28 | xiaowei\_treehole\_img | 小微树洞图片合成模块
+Tau Woo | 2018-03-28 | xiaowei\_treehole | 小微树洞模块
 
 ## 实现方法
 (空)
