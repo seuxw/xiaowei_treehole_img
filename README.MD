@@ -15,7 +15,8 @@ OS | Version
 DevOs | Linux Deepin-15.5 (Debian 6.3.0-11)
 
 ## 软件依赖
-(空)
+sudo apt-get install python3
+sudo apt-get install python3-pip
 
 ## 根目录介绍
 目录 | 详情
