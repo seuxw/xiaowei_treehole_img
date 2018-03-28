@@ -1,6 +1,3 @@
-import sys
-sys.path.append("../..")
-
 from constant.list import TREEHOLE_TYPE_LIST
 from constant.value import TEMPLATE_BASE_PATH
 import os
